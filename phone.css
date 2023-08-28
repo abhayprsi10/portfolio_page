@@ -1,0 +1,30 @@
+.home{
+    background: none;
+}
+
+.header{
+    flex-direction: column;
+    padding: 20px 2px;
+
+}
+
+.navbar{
+    margin-top: 15px;
+}
+.navbar a{
+    margin: 10px 5px;
+}
+
+
+.home-content .btn-box {
+   
+    justify-content: space-evenly;
+  
+}
+
+/* .home-imghover::after {
+    
+    background:red;
+    animation:none;
+   
+} */
